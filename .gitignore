@@ -45,11 +45,6 @@ ENV/
 ehthumbs.db
 Thumbs.db
 
-# Keep data structure
-!data/.gitkeep
-!models/.gitkeep
-!results/.gitkeep
-
 # Jupyter Notebooks
 .ipynb_checkpoints
 
