@@ -45,13 +45,7 @@ ENV/
 ehthumbs.db
 Thumbs.db
 
-# Project specific - exclude large data files and models
-data/embeddings_data.pkl
-data/embeddings_data.json
-models/*.pkl
-results/*.png
-
-# Keep data structure but exclude large files
+# Keep data structure
 !data/.gitkeep
 !models/.gitkeep
 !results/.gitkeep
